@@ -1,12 +1,16 @@
 # PawaxiFun
 
-PawaxiFun的`README-zh.md`。[Read English version of README](README.md)
+PawaxiFun的README。[Read English version of README](README.md)
 
 ## 关于PawaxiFun
 
 PawaxiFun是Github上的组织Pawaxi的一个公开代码库，其中维护由PawaxiFun的开发人员及其他贡献者编写的程序。这些程序都是有趣的游戏或者其他娱乐应用。应用的编写语言可以是任意语言，例如Python，C/C++，Java，Go等代码编程语言，甚至也可以是图形化编程语言——Scratch的项目文件。
 
-我们公开PawaxiFun仓库中的源代码。希望代码的使用者能够运用代码进行更深入的开发，同时请代码的使用者遵守`LICENSE`文件中的开源协议。由于本项目的维护者是学生，难免在开发和维护过程中出错或导致代码的质量问题。如果您对代码有意见或建议，欢迎到`Issues`栏提出反馈，非常感谢。
+我们公开PawaxiFun仓库中的源代码。希望代码的使用者能够运用代码进行更深入的开发，同时请代码的使用者遵守`LICENSE`文件中的开源协议。由于本项目的维护者是学生，难免在开发和维护过程中出错或产生代码的质量问题。如果您对代码有意见或建议，欢迎到`Issues`栏提出反馈，非常感谢。
+
+## 项目分类
+
+这里的项目主要包括游戏，未来会不断添加更多研究性的项目。
 
 ## 使用PawaxiFun
 
